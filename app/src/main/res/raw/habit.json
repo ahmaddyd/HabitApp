@@ -1,0 +1,39 @@
+{
+  "habits": [
+    {
+      "id": 1,
+      "title": "Reading book",
+      "focusTime": 20,
+      "startTime": "16:00",
+      "priorityLevel": "High"
+    },
+    {
+      "id": 2,
+      "title": "Walking every morning",
+      "focusTime": 45,
+      "startTime": "06:30",
+      "priorityLevel": "Medium"
+    },
+    {
+      "id": 3,
+      "title": "Coding practice",
+      "focusTime": 60,
+      "startTime": "10:00",
+      "priorityLevel": "High"
+    },
+    {
+      "id": 4,
+      "title": "Writing journal",
+      "focusTime": 10,
+      "startTime": "20:30",
+      "priorityLevel": "Low"
+    },
+    {
+      "id": 5,
+      "title": "Self Retrospection",
+      "focusTime": 15,
+      "startTime": "21:00",
+      "priorityLevel": "Low"
+    }
+  ]
+}

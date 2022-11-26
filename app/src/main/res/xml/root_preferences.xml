@@ -1,0 +1,14 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ListPreference
+        app:defaultValue="@string/pref_dark_auto"
+        app:entries="@array/dark_mode"
+        app:entryValues="@array/dark_mode_value"
+        app:key="@string/pref_key_dark"
+        app:title="@string/pref_dark_title"
+        app:useSimpleSummaryProvider="true" />
+
+    <SwitchPreference
+        app:key="@string/pref_key_notify"
+        app:summary="@string/pref_notify_summary"
+        app:title="@string/pref_notify_name" />
+</PreferenceScreen>

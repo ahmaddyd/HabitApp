@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Habit App</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_random">Random</string>
+
+    <string name="title_hint">Activity Name</string>
+    <string name="focus_time_duration_hint">Focus Time Duration (in minutes)</string>
+    <string name="action_save">Save</string>
+    <string name="add_habit">Add Habit</string>
+    <string name="start_time">Start Time</string>
+    <string name="habit_deleted">Habit has been deleted</string>
+    <string name="priority_level">Priority Level</string>
+    <string name="minutes">minutes</string>
+
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_detail_habit">ScrollingActivity</string>
+    <string name="title_activity_random">Random Habit</string>
+
+    <!-- Snackbar -->
+    <string name="empty_message">Habit cannot be empty</string>
+
+    <!-- Night Mode Preferences -->
+    <string name="pref_dark_title">Dark mode</string>
+    <string name="pref_key_dark" translatable="false">key_dark_mode</string>
+    <string name="pref_dark_auto" translatable="false">auto</string>
+    <string name="pref_dark_on" translatable="false">on</string>
+    <string name="pref_dark_off" translatable="false">off</string>
+    <string name="dark_mode_auto">Automatic</string>
+    <string name="dark_mode_on">Dark mode</string>
+    <string name="dark_mode_off">Light mode</string>
+
+    <!-- Notification -->
+    <string name="pref_key_notify">key_notification</string>
+    <string name="pref_notify_name">Notification</string>
+    <string name="pref_notify_summary">Reminder when countdown has finished.</string>
+    <string name="notify_channel_name">Habit Reminder</string>
+    <string name="notify_content">Time Up!</string>
+
+    <!-- Filter -->
+    <string name="action_sort">sort</string>
+    <string name="filter_start_time">By Start Time</string>
+    <string name="filter_minutes_focus">By Minutes Focus</string>
+    <string name="filter_title_name">By Title Name</string>
+
+    <!-- Priority Level-->
+    <string name="high">High</string>
+    <string name="medium">Medium</string>
+    <string name="low">Low</string>
+
+    <!-- Count Down-->
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="open_count_down">Open Count Down</string>
+</resources>

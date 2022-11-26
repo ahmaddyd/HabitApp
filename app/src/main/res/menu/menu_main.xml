@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.dicoding.habitapp.ui.list.HabitListActivity">
+    <item
+        android:id="@+id/action_random"
+        android:icon="@drawable/ic_random"
+        android:orderInCategory="100"
+        android:title="@string/action_random"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_filter"
+        android:icon="@drawable/ic_filter_list"
+        android:orderInCategory="101"
+        android:title="@string/action_sort"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="102"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+</menu>
